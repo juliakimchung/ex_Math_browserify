@@ -1,7 +1,6 @@
 "use strict";
 let $ = require("jquery");
 let ev = require("./math");
-
 let input = $("#input");
 let inputNum1;
 let inputNum2;
